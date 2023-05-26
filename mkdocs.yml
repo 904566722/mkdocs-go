@@ -9,7 +9,7 @@ theme:
         icon: material/brightness-7
         name: Switch to dark mode
       primary: red  # 标题、侧边栏、文本链接的颜色
-      accent: red # 交互元素、悬停链接、按钮、滚动条
+      accent: cyan # 交互元素、悬停链接、按钮、滚动条
     - scheme: slate
       toggle:
         icon: material/brightness-4
@@ -38,8 +38,8 @@ theme:
 #  - Blog:
 #      - blog/index.md
 
-repo_url: https://github.com/904566722/go
-repo_name: 904566722/go
+repo_url: https://github.com/904566722/mkdocs-go
+repo_name: 904566722/mkdocs-go
 
 plugins:
   - search:
